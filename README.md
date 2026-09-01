@@ -98,32 +98,32 @@ To use the app you will need logic.py, fp_widgets.py and main.py, you should run
 <img width="495" height="325" alt="image" src="https://github.com/user-attachments/assets/e126cf27-47c4-4b39-b490-0a750eabf11c" />
 
 ### New User
-<img width="773" height="326" alt="image" src="https://github.com/user-attachments/assets/e4e96427-b8ad-403a-a778-a3d927ffd4b0" />
-
+<img width="490" height="326" alt="image" src="https://github.com/user-attachments/assets/a7a2dc27-4741-4910-912c-05387de18ab2" />
 
 ## === Main ===
-<img width="1367" height="645" alt="image" src="https://github.com/user-attachments/assets/83038fdb-3344-49dd-baa3-93f27748e32c" />
+<img width="1213" height="626" alt="image" src="https://github.com/user-attachments/assets/349efed8-0b61-4db5-8e3b-ea20029cc7da" />
 
 ## === Usual entries ===
-<img width="1145" height="542" alt="image" src="https://github.com/user-attachments/assets/2422357e-8312-4a27-b99a-d7cdee6f3125" />
+<img width="1146" height="577" alt="image" src="https://github.com/user-attachments/assets/75c550cb-384f-4539-9149-ff138f5bcc76" />
 
 ## === Erase state ===
-<img width="1213" height="587" alt="image" src="https://github.com/user-attachments/assets/c97f13bf-a9f0-405d-bbf8-781d49f3ba57" />
+<img width="1206" height="626" alt="image" src="https://github.com/user-attachments/assets/ccb506df-55a1-48ff-ae89-0f74d6b850a0" />
 
 ### After clicking the button
-<img width="1210" height="587" alt="image" src="https://github.com/user-attachments/assets/1e3c40b6-b145-48c5-ba78-02690d975c07" />
+<img width="1210" height="630" alt="image" src="https://github.com/user-attachments/assets/71af9859-4e3c-4e43-9fda-fca072ed8c3c" />
 
 ### After clicking a row
-<img width="1217" height="597" alt="image" src="https://github.com/user-attachments/assets/f81c2256-4b03-44bc-86c9-8f060f1b3e8b" />
+<img width="1213" height="632" alt="image" src="https://github.com/user-attachments/assets/699242af-113b-4d81-8de1-cd6506bc5e9b" />
 
 ## === Edit state ===
-<img width="1214" height="589" alt="image" src="https://github.com/user-attachments/assets/699ba143-9b09-4ca6-916c-31b46e07b22d" />
+<img width="1207" height="629" alt="image" src="https://github.com/user-attachments/assets/e7acc79e-e3aa-4bf3-b434-ac0776f332e4" />
 
 ### After clicking the button
-<img width="1207" height="589" alt="image" src="https://github.com/user-attachments/assets/b4791293-9faf-4010-bea1-75a380a66e26" />
+<img width="1207" height="627" alt="image" src="https://github.com/user-attachments/assets/35d056a6-dbe4-4ba7-9d20-89c0418d26f7" />
 
 ### After clicking a row
-<img width="1212" height="588" alt="image" src="https://github.com/user-attachments/assets/fcea7c93-0411-4188-a6c3-802eefe0520c" />
+<img width="1211" height="631" alt="image" src="https://github.com/user-attachments/assets/62d85d3a-fb76-49f2-b5d9-dade8d1e3c8d" />
+
 
 
 
