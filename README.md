@@ -85,6 +85,8 @@ Some next steps will include an investment tracking system and a coupon calendar
 
 Some other interface changes could be done to accomplish a cleaner visualization.
 
+One of the main concerns is the privacy and security of the data. In the future I am planning to use hashing to encrypt data and add a layer of security.
+
 
 ## Setup
 
