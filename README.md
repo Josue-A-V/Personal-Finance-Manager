@@ -90,7 +90,7 @@ One of the main concerns is the privacy and security of the data. In the future 
 
 ## Setup
 
-To use the app you will need the three document listed above. Neccesary libraries are tkinter, ttkbootstrap, pandas and matplotlib.
+To use the app you will need logic.py, fp_widgets.py and main.py, you should run the latter to open the app. Neccesary libraries are tkinter, ttkbootstrap, pandas and matplotlib. Additionally, if you want to try an existing database, you can use all four csv files: users.csv, fp_gue_db_iyg_193119_31_08_2026, fp_gue_db_eu_193119_31_08_2026, fp_gue_db_inv_193119_31_08_2026 which are a trial dataset for the guest user that you can access by clicking on the "Ingresar como invitado" (Enter as guest) button in the Log In wndow. Make sure all files are on the same folder.
 
 ## Gallery
 
